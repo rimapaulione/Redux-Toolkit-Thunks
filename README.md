@@ -1,12 +1,13 @@
-# Redux Toolkit project
+## Redux Toolkit Action Creator Thunks project
 
-<p>Simple React project to learn basics of Redux Toolkit.</p>
+<p>A simple React project designed for learning Redux Toolkit, Action Creators, and Thunk. I utilize 'Firebase' for real-time data storage, enabling data to be added to the cart and retrieved even when the page is reloaded. The project also includes notifications for 'success' or 'error' messages during data fetching.</p>
 
-<img src="/src/assets/toolkit.png" alt="Redux Toolkit app" >
+<img src="/src/assets/toolkit-thunk.png" alt="Redux Toolkit app" >
 
 ## Used in App:
 
-- Redux Toolkit (basic)
+- Redux Toolkit;
+- Action creator thunks;
 
 In the project directory, you can run:
 
